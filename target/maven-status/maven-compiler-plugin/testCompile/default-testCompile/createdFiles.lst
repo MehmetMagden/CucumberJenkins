@@ -1,0 +1,5 @@
+pages\DenemePage.class
+runners\Runner.class
+stepDefinitions\DenemeStepDefinitions.class
+utilities\Driver.class
+utilities\ConfigReader.class
